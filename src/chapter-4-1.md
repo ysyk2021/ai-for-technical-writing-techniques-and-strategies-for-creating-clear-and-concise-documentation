@@ -1,5 +1,4 @@
-Overview of AI Tools and Technologies for Technical Writing
-==========================================================================================================================================
+
 
 Choosing the right AI tools and technologies is critical for successful implementation in technical writing. In this chapter, we'll provide an overview of some of the key AI tools and technologies available for technical writing.
 

@@ -1,5 +1,4 @@
-Types of AI Used for Technical Writing
-========================================================================================
+
 
 AI technology has the potential to transform technical writing by improving content quality, efficiency, consistency, and discoverability. In this chapter, we'll explore the types of AI used in technical writing.
 

@@ -1,5 +1,4 @@
-Overview of AI Applications for Localization and Translation in Technical Writing
-===================================================================================================================================================
+
 
 AI technology can be used to streamline localization and translation processes in technical writing, making it faster and more efficient to produce high-quality content for global audiences. In this chapter, we'll provide an overview of AI applications for localization and translation in technical writing.
 

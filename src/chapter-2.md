@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI in Technical Writing
-================================================
+
 
 AI technology has the potential to transform technical writing by improving content quality, efficiency, consistency, and discoverability. In this chapter, we'll explore what AI is and how it can be used in technical writing.
 

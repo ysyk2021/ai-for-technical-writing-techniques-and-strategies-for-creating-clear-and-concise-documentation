@@ -1,5 +1,4 @@
-Overview of AI Applications for Content Organization and Structure in Technical Writing
-============================================================================================================================================================
+
 
 AI technology can significantly enhance content organization and structure in technical writing. In this chapter, we'll explore some of the key AI applications for content organization and structure.
 
