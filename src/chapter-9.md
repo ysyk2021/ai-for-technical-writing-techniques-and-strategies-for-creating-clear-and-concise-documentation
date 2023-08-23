@@ -1,5 +1,4 @@
 
-
 Implementing AI technology in technical writing can have a significant impact on content quality, efficiency, consistency, and discoverability. However, it's important to measure the effectiveness of AI for technical writing and continuously adapt and improve your AI approach to maximize its benefits.
 
 Assessing the Effectiveness of AI for Technical Writing

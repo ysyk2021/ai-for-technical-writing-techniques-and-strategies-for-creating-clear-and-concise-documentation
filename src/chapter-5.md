@@ -1,5 +1,4 @@
 
-
 In this chapter, we explore how artificial intelligence (AI) can be used for automated content generation in technical writing. We'll look at an overview of AI applications for automated content generation, best practices for AI implementation in areas such as user manuals, FAQs, and knowledge bases, and case studies of successful AI implementations in automated content generation.
 
 Overview of AI Applications for Automated Content Generation in Technical Writing

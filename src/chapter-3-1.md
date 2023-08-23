@@ -1,5 +1,4 @@
 
-
 Before implementing AI technology in technical writing, it's essential to assess your organization's technical writing needs and goals. In this chapter, we'll explore some key considerations when assessing technical writing needs and goals for AI implementation.
 
 Identifying Pain Points

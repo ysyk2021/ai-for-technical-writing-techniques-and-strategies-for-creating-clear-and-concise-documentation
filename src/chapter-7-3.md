@@ -1,5 +1,4 @@
 
-
 Implementing AI technology in localization and translation can bring significant benefits such as improved accuracy, faster turnaround times, and lower costs. In this chapter, we'll explore case studies of successful AI implementations in streamlined localization and translation.
 
 Case Study 1: SDL Machine Translation

@@ -1,5 +1,4 @@
 
-
 AI technology has the potential to transform technical writing by improving content quality, efficiency, consistency, and discoverability. In this chapter, we'll explore the definition of AI-powered technical writing.
 
 What is AI?

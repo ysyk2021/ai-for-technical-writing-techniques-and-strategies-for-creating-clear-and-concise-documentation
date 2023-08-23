@@ -1,5 +1,4 @@
 
-
 AI technology can significantly improve content creation in technical writing by providing automated content generation capabilities. In this chapter, we'll explore some of the key AI applications for automated content generation in technical writing.
 
 Natural Language Generation (NLG)

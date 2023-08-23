@@ -1,5 +1,4 @@
 
-
 AI technology has the potential to transform technical writing by improving content quality, efficiency, consistency, and discoverability. In this chapter, we'll explore the types of AI used in technical writing.
 
 Natural Language Processing (NLP)
@@ -26,5 +25,4 @@ Conclusion
 ----------
 
 NLP, ML, DL, and chatbots are examples of AI technology used in technical writing. By leveraging these technologies, organizations can automate or augment tasks related to content creation, editing, translation, organization, and search, improving content quality, efficiency, consistency, and discoverability. However, successful adoption of AI technology in technical writing requires careful preparation and consideration to address ethical and legal considerations related to AI technology.
-
 

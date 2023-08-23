@@ -1,5 +1,4 @@
 
-
 As AI technology becomes increasingly prevalent in technical writing, it's important to consider the ethical implications of its implementation. AI ethics and governance frameworks can help organizations ensure that their AI implementations align with ethical principles and best practices.
 
 Bias and Fairness

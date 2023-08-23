@@ -1,5 +1,4 @@
 
-
 As AI technology becomes increasingly prevalent in technical writing, it's crucial to consider legal and regulatory considerations for AI implementation. In this chapter, we'll explore some key legal and regulatory considerations when implementing AI in technical writing.
 
 Intellectual Property Rights
