@@ -1,5 +1,4 @@
-Chapter: Overview of AI Applications for Content Organization and Structure in Technical Writing
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
